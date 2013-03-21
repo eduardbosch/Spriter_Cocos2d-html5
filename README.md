@@ -3,7 +3,7 @@ Spriter_Cocos2d-html5
 
 Spriter parser for Cocos2D-html5.
 
-This is a quick port from James Hui CCSpriteX in C++ to JavaScript - http://jameshui.com
+This is a quick port from James Hui CCSpriteX in C++ to JavaScript - http://jameshui.com/?p=156
 
 <b>Basic usage</b>
 
