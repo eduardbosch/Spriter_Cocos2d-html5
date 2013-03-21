@@ -675,6 +675,7 @@ cc.SpriterX = cc.Node.extend({
             url : path,
             dataType: "text",
 			async: false,
+            crossDomain: true,
             success : function (data) {
                 buffer = data;
             }
